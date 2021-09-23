@@ -31,3 +31,17 @@ func getAverage(_ marks: [Int]) -> Int {
     
 }
  getAverage([1,2,3,4,5,6])
+
+
+
+
+// Day 3
+
+//This code does not execute properly. Try to figure out why.
+
+func multiply(_ a: Double, _ b: Double) -> Double {
+    let result = a * b
+    return result
+}
+
+multiply(12, 2)
